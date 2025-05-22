@@ -1,0 +1,29 @@
+
+.carta-container {
+  background-color: black;
+  color: white;
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+}
+
+.carta-container h1,
+.carta-container h2 {
+  color: crimson;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.carta-container p {
+  margin-bottom: 1rem;
+}
+
+.carta-container ul {
+  list-style-type: square;
+  padding-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+.carta-container li {
+  margin-bottom: 0.5rem;
+}
